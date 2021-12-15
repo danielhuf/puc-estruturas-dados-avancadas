@@ -1,0 +1,1 @@
+int *Dijkstra(Grafo *g, int origem, int *cont);
